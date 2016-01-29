@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/statusZonaMenu"
+        android:title="@string/menuStatus"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/marcarZonaMenu"
+        android:title="@string/menuMarcar"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/agregarZonaMenu"
+        android:title="@string/menuAgregar"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/eliminarZonaMenu"
+        android:title="@string/menuEliminar"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>

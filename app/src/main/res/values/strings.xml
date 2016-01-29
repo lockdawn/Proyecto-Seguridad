@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+
+    <!-- Opciones del Menú -->
+    <string name="menuStatus">Estatus de las Zonas</string>
+    <string name="menuMarcar">Marcar Zona</string>
+    <string name="menuAgregar">Agregar Zona</string>
+    <string name="menuEliminar">Eliminar Zona</string>
+</resources>
